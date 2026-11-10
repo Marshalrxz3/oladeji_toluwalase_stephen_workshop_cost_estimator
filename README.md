@@ -79,4 +79,4 @@ Beyond the basic energy and cost calculation, the program also:
 I learned how to break a program into functions, including ones that return values such as the kWh and generator cost calculations, so the code is easier to reuse and test. I also learned to use `try/except` with `float()` and `int()` inside loops so the program handles wrong input instead of crashing.
 
 ## Author
-TOLUWALASE, ND2 Mechatronics Engineering, YabaTech.
+OLADEJI TOLUWALASE STEPHEN, ND2 Mechatronics Engineering, YabaTech.
